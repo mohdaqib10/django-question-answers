@@ -1,0 +1,28 @@
+led / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+# C extensions
+*.so
+.Python
+.python-version
+files/
+*.egg-info/
+.installed.cfg
+*.egg
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+*.mo
+*.pot
+*.log
+local_settings.py
+*.sqlite3
+*.idea
+*/venv
+*/.idea/*
+.vscode/
+venv/
+.cache/
+media/
